@@ -1,0 +1,52 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    background-color: black;
+    
+}
+.container{
+    background-color: white;
+    padding: 50px;
+    margin: 150px auto;
+    justify-self: center;
+    border-radius: 10px;
+   
+    
+}
+form{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: bold;
+    
+}
+form input{
+    
+    border-radius: 10px;
+    border: solid rgb(119, 117, 117);
+   
+}
+.in{
+    height: 40px;
+    font-size: 30px;
+    width: 150px;
+}
+
+button{
+    margin: 10px auto;
+    display: block;
+    padding: 10px;
+    background-color: rgb(68, 66, 66);
+    border-radius: 10px;
+    border: solid rgb(255, 253, 253);
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+
+}
+button:hover{
+    background-color: black;
+}
+h1{
+    text-align: center;
+}
